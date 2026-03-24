@@ -1,0 +1,16 @@
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\bin\Debug\net10.0-windows\EmployeeManagementSystem.exe
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\bin\Debug\net10.0-windows\EmployeeManagementSystem.deps.json
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\bin\Debug\net10.0-windows\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\bin\Debug\net10.0-windows\EmployeeManagementSystem.dll
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\bin\Debug\net10.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.dll
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\refint\EmployeeManagementSystem.dll
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.pdb
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\ref\EmployeeManagementSystem.dll
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.Form1.resources
+C:\Users\Aryan Raj\Downloads\EmployeeManagementSystem\obj\Debug\net10.0-windows\EmployeeManagementSystem.csproj.GenerateResource.cache
