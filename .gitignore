@@ -1,0 +1,48 @@
+# Visual Studio
+
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build folders
+
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio Code
+
+.vscode/
+
+# Rider
+
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# NuGet
+
+*.nupkg
+packages/
+
+# Windows Forms designer cache
+
+*.cache
+
+# Publish
+
+publish/
+
+# Local JSON data (optional)
+
+employees.json
